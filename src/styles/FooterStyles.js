@@ -300,6 +300,7 @@ font-size: 1.44vw;
     left: -4.5vw;
     height: 4vh;
     top: -18.5vh;
+    z-index: 0;
     
     &:hover:after { 
       width: 99%; 
